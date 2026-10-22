@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.16)
+project(serverconfig_demo CXX)
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+if(NOT CMAKE_BUILD_TYPE)
+  set(CMAKE_BUILD_TYPE Release)   # -O2: the world CSV is 14 MB, debug builds are slow
+endif()
+add_executable(serverconfig_demo demo_main.cpp ServerConfig.cpp)
+if(MSVC)
+  target_compile_options(serverconfig_demo PRIVATE /W4 /WX)
+else()
+  target_compile_options(serverconfig_demo PRIVATE -Wall -Wextra -Werror -pedantic)
+endif()
