@@ -1,0 +1,20 @@
+[00:16:26] [User Authenticator #303/INFO]: UUID of player ryanturtle7926 is 0b7e9bea-561b-4c60-a596-94b15878b502
+[00:16:26] [Server thread/INFO]: Disconnecting ryanturtle7926 (/0.0.0.0:0): You are not whitelisted on this server!
+[00:16:26] [Server thread/INFO]: ryanturtle7926 (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[01:02:14] [User Authenticator #304/INFO]: UUID of player poorbulliedlion is 072fd232-7f36-4494-b3ee-6719c0ffd08f
+[01:02:15] [Server thread/INFO]: System chat: poorbulliedlion joined the game
+[01:02:15] [Server thread/INFO]: poorbulliedlion[/0.0.0.0:0] logged in with entity id 786578 at ([minecraft:overworld]-3.7412744274575416, 70.0, -9.821276786282002)
+[01:44:42] [User Authenticator #305/INFO]: UUID of player TheOkayGuy is b060bb96-0a6e-49b2-aa81-e77789d8b592
+[01:44:42] [Server thread/INFO]: System chat: TheOkayGuy joined the game
+[01:44:42] [Server thread/INFO]: TheOkayGuy[/0.0.0.0:0] logged in with entity id 795941 at ([minecraft:overworld]-18.28375767285751, 78.0, 13.460360019648773)
+[01:44:45] [Async Chat Thread - #407/INFO]: <poorbulliedlion> wsp
+[01:44:52] [Async Chat Thread - #407/INFO]: <TheOkayGuy> yo gurt
+[01:55:52] [Server thread/INFO]: TheOkayGuy lost connection: Disconnected
+[01:55:52] [Server thread/INFO]: System chat: TheOkayGuy left the game
+[01:57:54] [Server thread/INFO]: poorbulliedlion lost connection: Disconnected
+[01:57:54] [Server thread/INFO]: System chat: poorbulliedlion left the game
+[03:22:40] [User Authenticator #306/INFO]: UUID of player Kamish_Saladin is 6ec7d9a9-a120-4f0c-abf9-ab315645b858
+[03:22:41] [Server thread/INFO]: System chat: Kamish_Saladin joined the game
+[03:22:41] [Server thread/INFO]: Kamish_Saladin[/0.0.0.0:0] logged in with entity id 800338 at ([minecraft:overworld]173.99911282930435, 119.0, 75.73340372360025)
+[04:10:55] [Server thread/INFO]: Kamish_Saladin lost connection: Disconnected
+[04:10:55] [Server thread/INFO]: System chat: Kamish_Saladin left the game
