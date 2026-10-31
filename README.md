@@ -358,3 +358,4 @@ Implement `writeLoginsCsv`. One header line, then one line per `LoginRecord`, nu
 | Task 5-6: report is complete and aligned; `logins.csv` is correct | 20% |
 | Code quality: `const` correctness, no copies of big objects, data stays private, files always checked after opening | 15% |
 | `NOTES.md` and at least one extension | 10% |
+# M1_lab
