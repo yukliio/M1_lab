@@ -39,10 +39,12 @@ public:
     // Pointers to every player, sorted by time online, most first.
     // (Call this only after all files are processed: adding a player can move the vector.)
     std::vector<const Player*> playersByTimeOnline() const;
+    std::vector<const Player*> playersByLongestSession() const;
 
     // Write the summary report. Returns false if the file can't be created.
     bool writeReport(const std::string& path) const;
     bool writeLoginsCsv(const std::string& path) const;
+
 
 private:
     std::vector<Player>       players_;     // every player we have seen

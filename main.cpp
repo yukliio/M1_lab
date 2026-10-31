@@ -7,6 +7,7 @@
 // Writes:  report.txt   logins.csv
 #include "ServerLog.h"
 #include <iostream>
+#include <cassert>
 
 // "2026-10-18-1.log" -> "2026-10-18";  "latest.log" -> "latest"
 static std::string dateFromFilename(const std::string& path) {
@@ -38,5 +39,6 @@ int main(int argc, char* argv[]) {
 
     if (log.writeReport("report.txt"))   std::cout << "Wrote report.txt\n";
     if (log.writeLoginsCsv("logins.csv")) std::cout << "Wrote logins.csv\n";
+
     return 0;
 }

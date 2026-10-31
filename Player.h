@@ -25,6 +25,9 @@ class Player {
     double x_ = 0, y_ = 0, z_ = 0;
     std::string dimension_;
 
+    int activeSessionSeconds_ = 0;
+    int longestSessionSeconds_ = 0;
+
 public:
     Player();                                 // needed so std::vector<Player> can make empty slots
     explicit Player(const std::string& name);
@@ -50,11 +53,13 @@ public:
     const std::vector<CauseCount>& deathCauses() const { return deathCauses_; }
     int  deathsBy(const std::string& cause) const;   // 0 if never
 
+
     bool hasPosition() const { return hasPos_; }
     double lastX() const { return x_; }
     double lastY() const { return y_; }
     double lastZ() const { return z_; }
     const std::string& lastDimension() const { return dimension_; }
+    int longestSessionSeconds() const {return longestSessionSeconds_;}
 
     // "3h 04m" style text for the report
     std::string timeOnlineText() const;

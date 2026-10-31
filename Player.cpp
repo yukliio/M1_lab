@@ -12,20 +12,24 @@ void Player::recordJoin(int seconds) {
     joins_++; 
     online_ = true; 
     sessionStart_ = seconds;
+    activeSessionSeconds_ = 0;
 }
 
 void Player::recordLeave(int seconds) {
-    // TODO (Task 3): if online, add (seconds - sessionStart_) to secondsOnline_.
-    // If NOT online, this is a "left" with no "joined" in this file: the player
-    // was on the server when the day started (log rolled over at midnight).
-    // Credit them from 00:00:00, i.e. add 'seconds'.
-    // Either way, mark them offline.
-
-    if(online_){
-        secondsOnline_ += seconds - sessionStart_;
+    if (online_) {
+        int duration = seconds - sessionStart_;
+        activeSessionSeconds_ += duration;
+        secondsOnline_ += duration;
     } else {
+        activeSessionSeconds_ += seconds;
         secondsOnline_ += seconds;
     }
+
+    if (activeSessionSeconds_ > longestSessionSeconds_) {
+        longestSessionSeconds_ = activeSessionSeconds_;
+    }
+
+    activeSessionSeconds_ = 0;
     online_ = false;
 }
 
@@ -68,8 +72,16 @@ void Player::endOfDay(int lastSeconds) {
     // them up to lastSeconds, then set sessionStart_ = 0 so that tomorrow's
     // "left the game" counts from midnight. Leave online_ as it is.
     if (online_){
-        secondsOnline_ += lastSeconds - sessionStart_;
-        sessionStart_ = 0; 
+        int duration = lastSeconds - sessionStart_;
+
+        secondsOnline_ += duration;
+        activeSessionSeconds_ += duration;
+
+        if (activeSessionSeconds_ > longestSessionSeconds_) {
+            longestSessionSeconds_ = activeSessionSeconds_;
+        }
+
+        sessionStart_ = 0;
     }
 }
 
