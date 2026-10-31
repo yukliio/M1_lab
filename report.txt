@@ -32,6 +32,27 @@ PolyPixel                    0h 01m
 Teaq01                       0h 01m
 alkoxy42                     0h 00m
 
+CAUSES OF DEATH
+tried to swim in lava: 13
+fell from a high place: 11
+was slain by Zombie: 9
+was slain by vowelphobic: 4
+was blown up by Creeper: 3
+was slain by Iron Golem: 3
+was shot by Skeleton: 3
+drowned: 3
+was slain by Spider: 2
+burned to death: 2
+was slain by poorbulliedlion: 2
+was slain by Grougan: 2
+was slain by Kamish_Saladin: 1
+was slain by Enderman: 1
+was killed by Witch using magic: 1
+fell off a ladder: 1
+was doomed to fall by Magma Cube: 1
+was slain by Piglin: 1
+was doomed to fall by NeverUnderrated: 1
+
 SUPERLATIVES
 Chattiest player: vowelphobic (460 chats)
 Most deaths: 8kizi8 (24 deaths)
@@ -62,3 +83,28 @@ Avuwep: (-11.8, 69.0, -7.2)
 neuron_null: (-7.5, 76.0, 7.5)
 Lopopollo: (110.7, 120.0, 24.0)
 NeverUnderrated: (-8.5, 75.0, 4.5)
+
+LONGEST SESSIONS
+MissSciFiNerd: 19236 seconds
+Kamish_Saladin: 16095 seconds
+Grougan: 11964 seconds
+SwimmingBird178: 9660 seconds
+vowelphobic: 9424 seconds
+TheOkayGuy: 9380 seconds
+poorbulliedlion: 8467 seconds
+randomguycuz: 6211 seconds
+Lopopollo: 4807 seconds
+Sushislushie389: 3049 seconds
+t3rt1e: 2982 seconds
+Sansguy83: 2939 seconds
+8kizi8: 1182 seconds
+NeverUnderrated: 943 seconds
+Toastampro: 923 seconds
+neuron_null: 843 seconds
+Lunar_Milk: 797 seconds
+Dqrkxzz: 573 seconds
+Avuwep: 504 seconds
+SpaceStation905: 179 seconds
+PolyPixel: 90 seconds
+Teaq01: 64 seconds
+alkoxy42: 0 seconds

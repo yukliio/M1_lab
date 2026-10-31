@@ -245,6 +245,20 @@ std::vector<const Player*> ServerLog::playersByTimeOnline() const {
 
     return players_ps;
 }
+std::vector<const Player*> ServerLog::playersByLongestSession() const {
+    std::vector<const Player*> sortedPlayers;
+
+    for (std::size_t i = 0; i < players_.size(); ++i) {
+        sortedPlayers.push_back(&players_[i]);
+    }
+
+    std::sort(sortedPlayers.begin(), sortedPlayers.end(),
+        [](const Player* a, const Player* b) {
+            return a->longestSessionSeconds() > b->longestSessionSeconds();
+        });
+
+    return sortedPlayers;
+}
 
 // ---------------------------------------------------------------- output
 
@@ -283,6 +297,16 @@ bool ServerLog::writeReport(const std::string& path) const {
             << '\n';
     }
 
+    // CAUSES OF DEATH 
+    report << "\nCAUSES OF DEATH\n";
+
+    std::vector<CauseCount> causes = deathCauseTotals();
+
+    for (std::size_t i = 0; i < causes.size(); ++i) {
+        report << causes[i].cause << ": "
+            << causes[i].count << "\n";
+    }
+
     // SUPERLATIVES
     const Player* chattiest = nullptr;
     const Player* mostDeaths = nullptr;
@@ -319,6 +343,8 @@ bool ServerLog::writeReport(const std::string& path) const {
         }
     }
 
+
+
     // LAST POSITIONS   
     report << "\nLAST KNOWN POSITIONS\n";
     report << std::fixed << std::setprecision(1); 
@@ -329,6 +355,17 @@ bool ServerLog::writeReport(const std::string& path) const {
        << players_[i].lastY() << ", "
        << players_[i].lastZ() << ")\n";
     }
+
+    // LONGEST SESSIONS 
+    report << "\nLONGEST SESSIONS\n";
+
+    std::vector<const Player*> longestSessions = playersByLongestSession();
+
+    for (std::size_t i = 0; i < longestSessions.size(); ++i) {
+        report << longestSessions[i]->name() << ": "
+            << longestSessions[i]->longestSessionSeconds()
+            << " seconds\n";
+    }   
 
     return true;
 }
@@ -351,3 +388,4 @@ bool ServerLog::writeLoginsCsv(const std::string& path) const {
     }
     return true;
 }
+
