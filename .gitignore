@@ -1,0 +1,17 @@
+# build output
+cmake-build-*/
+build/
+*.o
+*.obj
+*.exe
+demo
+serverconfig_demo
+loganalyzer
+worldmapper
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+# scratch output from the demo program
+server.properties.modified

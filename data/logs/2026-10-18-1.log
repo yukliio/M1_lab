@@ -1,0 +1,617 @@
+[00:26:05] [Server thread/INFO]: System chat: MissSciFiNerd has made the advancement [Hot Stuff]
+[01:06:59] [Server thread/INFO]: MissSciFiNerd lost connection: Disconnected
+[01:06:59] [Server thread/INFO]: System chat: MissSciFiNerd left the game
+[01:12:31] [User Authenticator #139/INFO]: UUID of player MissSciFiNerd is 02dcdbd9-84e3-44e3-8f97-9af7de34ff8a
+[01:12:32] [Server thread/INFO]: System chat: MissSciFiNerd joined the game
+[01:12:32] [Server thread/INFO]: MissSciFiNerd[/0.0.0.0:0] logged in with entity id 100635 at ([minecraft:overworld]-12.243997353580177, 70.0, -12.70067921774004)
+[01:14:55] [Server thread/INFO]: MissSciFiNerd lost connection: Disconnected
+[01:14:55] [Server thread/INFO]: System chat: MissSciFiNerd left the game
+[01:42:10] [User Authenticator #140/INFO]: UUID of player MissSciFiNerd is 02dcdbd9-84e3-44e3-8f97-9af7de34ff8a
+[01:42:10] [Server thread/INFO]: System chat: MissSciFiNerd joined the game
+[01:42:10] [Server thread/INFO]: MissSciFiNerd[/0.0.0.0:0] logged in with entity id 101112 at ([minecraft:overworld]-11.79533879413281, 70.0, -8.326497350241489)
+[01:43:07] [Server thread/INFO]: System chat: MissSciFiNerd has completed the challenge [Return to Sender]
+[01:50:31] [Server thread/INFO]: System chat: MissSciFiNerd tried to swim in lava
+[02:12:55] [User Authenticator #141/INFO]: UUID of player Lunar_Milk is 0537b32a-78af-45f1-b752-ff730b489903
+[02:12:55] [Server thread/INFO]: Disconnecting Lunar_Milk (/0.0.0.0:0): You are not whitelisted on this server!
+[02:12:55] [Server thread/INFO]: Lunar_Milk (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[02:19:23] [Server thread/INFO]: System chat: MissSciFiNerd has made the advancement [A Terrible Fortress]
+[02:20:38] [Server thread/INFO]: System chat: MissSciFiNerd has made the advancement [Into Fire]
+[02:36:20] [Server thread/INFO]: System chat: MissSciFiNerd tried to swim in lava
+[02:56:03] [Server thread/INFO]: System chat: MissSciFiNerd has completed the challenge [Hot Tourist Destinations]
+[04:32:52] [Server thread/INFO]: Named entity Zombie['Francis'/122727, uuid='c839857e-1832-4139-a9b7-e30e1507df75', l='ServerLevel[world]', x=10.77, y=71.00, z=-7.54, cpos=[0, -1], tl=24155, v=true] died: Francis burned to death
+[04:45:55] [Server thread/INFO]: System chat: MissSciFiNerd was killed by Witch using magic
+[05:17:11] [Server thread/INFO]: System chat: MissSciFiNerd has made the advancement [Local Brewery]
+[05:48:31] [Server thread/INFO]: System chat: MissSciFiNerd has made the advancement [Best Friends Forever]
+[06:13:26] [User Authenticator #142/INFO]: UUID of player DestroyerKing90 is 898a12a3-e70f-4cf6-b093-0c3db4f000af
+[06:13:26] [Server thread/INFO]: Disconnecting DestroyerKing90 (/0.0.0.0:0): You are not whitelisted on this server!
+[06:13:26] [Server thread/INFO]: DestroyerKing90 (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[07:02:46] [Server thread/INFO]: MissSciFiNerd lost connection: Disconnected
+[07:02:46] [Server thread/INFO]: System chat: MissSciFiNerd left the game
+[16:18:38] [User Authenticator #143/INFO]: UUID of player MissSciFiNerd is 02dcdbd9-84e3-44e3-8f97-9af7de34ff8a
+[16:18:39] [Server thread/INFO]: System chat: MissSciFiNerd joined the game
+[16:18:39] [Server thread/INFO]: MissSciFiNerd[/0.0.0.0:0] logged in with entity id 157041 at ([minecraft:overworld]-11.365447505287335, 69.0, -7.164028145544142)
+[16:20:21] [Server thread/INFO]: Named entity Horse['Sylph'/157011, uuid='1398da6d-8e62-4f4a-a124-85031e06dec8', l='ServerLevel[world]', x=25.16, y=66.00, z=-45.97, cpos=[1, -3], tl=2049, v=true] died: Sylph was blown up by Creeper
+[16:20:21] [Server thread/WARN]: MissSciFiNerd was expected to be controlling vehicle literal{Sylph} but was not. Resetting vehicle position.
+[16:20:21] [Server thread/WARN]: MissSciFiNerd was expected to be controlling vehicle literal{Sylph} but was not. Resetting vehicle position.
+[16:20:21] [Server thread/WARN]: MissSciFiNerd was expected to be controlling vehicle literal{Sylph} but was not. Resetting vehicle position.
+[16:20:21] [Server thread/WARN]: MissSciFiNerd was expected to be controlling vehicle literal{Sylph} but was not. Resetting vehicle position.
+[16:20:22] [Server thread/WARN]: MissSciFiNerd was expected to be controlling vehicle literal{Sylph} but was not. Resetting vehicle position.
+[16:35:04] [Server thread/WARN]: Horse (vehicle of MissSciFiNerd) moved wrongly! 0.29192980825159215
+[16:44:09] [User Authenticator #144/INFO]: UUID of player Dqrkxzz is 27899981-389e-4678-a660-39d49da74394
+[16:44:09] [Server thread/INFO]: Disconnecting Dqrkxzz (/0.0.0.0:0): You are not whitelisted on this server!
+[16:44:09] [Server thread/INFO]: Dqrkxzz (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[16:47:47] [Server thread/INFO]: Villager Villager['Nitwit'/162694, uuid='353cfa5d-4c71-4850-8c02-ff035f0d17c6', l='ServerLevel[world]', x=829.14, y=62.19, z=247.69, cpos=[51, 15], tl=7087, v=true] died, message: 'Nitwit was slain by MissSciFiNerd'
+[18:09:26] [Server thread/INFO]: System chat: MissSciFiNerd has made the advancement [What a Deal!]
+[18:25:48] [User Authenticator #145/INFO]: UUID of player vowelphobic is 7bb9089d-f951-4299-aade-2dfa548edd65
+[18:25:49] [Server thread/INFO]: System chat: vowelphobic joined the game
+[18:25:49] [Server thread/INFO]: vowelphobic[/0.0.0.0:0] logged in with entity id 178280 at ([minecraft:overworld]136.69999998807907, 69.0, -10.520399011966427)
+[18:25:55] [Async Chat Thread - #79/INFO]: <vowelphobic> hi
+[18:26:12] [Async Chat Thread - #79/INFO]: <vowelphobic> oo nice farm!
+[18:35:59] [Async Chat Thread - #81/INFO]: <MissSciFiNerd> HELLO THERE
+[18:36:08] [Async Chat Thread - #81/INFO]: <MissSciFiNerd> didnt notice you joined
+[18:36:22] [Async Chat Thread - #81/INFO]: <MissSciFiNerd> can you sleep? i wanna skip the night
+[18:37:18] [Async Chat Thread - #81/INFO]: <vowelphobic> hii
+[18:37:20] [Async Chat Thread - #81/INFO]: <vowelphobic> sorry
+[18:37:26] [Async Chat Thread - #81/INFO]: <vowelphobic> i was afk, heating up food
+[18:38:07] [Async Chat Thread - #81/INFO]: <vowelphobic> what's up
+[18:38:24] [Async Chat Thread - #81/INFO]: <vowelphobic> lol there's a bed outside too
+[18:38:32] [Async Chat Thread - #81/INFO]: <MissSciFiNerd> didnt see it lmao
+[18:38:46] [Async Chat Thread - #81/INFO]: <MissSciFiNerd> im trying to set up villager trading
+[18:38:50] [Async Chat Thread - #81/INFO]: <vowelphobic> dang so quick
+[18:38:54] [Async Chat Thread - #81/INFO]: <MissSciFiNerd> got a looting 3 guy
+[18:38:57] [Async Chat Thread - #81/INFO]: <vowelphobic> heck yeah
+[18:38:59] [Async Chat Thread - #81/INFO]: <MissSciFiNerd> and 2 fletchers
+[18:39:04] [Async Chat Thread - #81/INFO]: <vowelphobic> you need the villager zombifier 2000
+[18:39:12] [Async Chat Thread - #81/INFO]: <MissSciFiNerd> 2 stacks of emeralds on me but no mending to spend it on
+[18:39:34] [Async Chat Thread - #81/INFO]: <MissSciFiNerd> i messed up and leveled up a villager and now he doesnt want to reset after i break his station
+[18:39:40] [Async Chat Thread - #81/INFO]: <vowelphobic> oop rip
+[18:39:51] [Async Chat Thread - #81/INFO]: <MissSciFiNerd> about to go kidnap more tho
+[18:40:07] [Async Chat Thread - #82/INFO]: <MissSciFiNerd> wanna come along so you can help me get my horse from the village?
+[18:40:17] [Async Chat Thread - #82/INFO]: <vowelphobic> yea im about to eat but sure
+[18:40:54] [Async Chat Thread - #82/INFO]: <vowelphobic> oh my gosh
+[18:40:58] [Async Chat Thread - #82/INFO]: <vowelphobic> you did the silverfish farm?
+[18:41:02] [Async Chat Thread - #82/INFO]: <MissSciFiNerd> yeah
+[18:41:08] [Async Chat Thread - #82/INFO]: <vowelphobic> sorry this is the armadillo one right
+[18:41:10] [Async Chat Thread - #82/INFO]: <MissSciFiNerd> im bredding more armadillos
+[18:41:16] [Async Chat Thread - #82/INFO]: <vowelphobic> for infinite scute
+[18:41:28] [Async Chat Thread - #82/INFO]: <vowelphobic> oo i like this style
+[18:41:50] [Async Chat Thread - #82/INFO]: <vowelphobic> this is motivating me to industrialize
+[18:41:54] [Async Chat Thread - #82/INFO]: <vowelphobic> oh thank you!
+[18:42:07] [Async Chat Thread - #82/INFO]: <vowelphobic> i'm going to eat my lunch rq so i'll brb
+[18:42:12] [Async Chat Thread - #82/INFO]: <MissSciFiNerd> got it
+[18:42:15] [Server thread/INFO]: vowelphobic lost connection: Disconnected
+[18:42:15] [Server thread/INFO]: System chat: vowelphobic left the game
+[19:07:36] [User Authenticator #146/INFO]: UUID of player SwimmingBird178 is 50ef94f4-bc6c-4015-b290-b42deddac5b3
+[19:07:37] [Server thread/INFO]: System chat: SwimmingBird178 joined the game
+[19:07:37] [Server thread/INFO]: SwimmingBird178[/0.0.0.0:0] logged in with entity id 191907 at ([minecraft:overworld]137.26704496986628, 63.0, -42.83633951491669)
+[19:07:43] [Async Chat Thread - #83/INFO]: <MissSciFiNerd> hello there
+[19:08:03] [Async Chat Thread - #83/INFO]: <SwimmingBird178> hello there, just wanted to hop in for a few mins see what people did
+[19:08:13] [Async Chat Thread - #83/INFO]: <MissSciFiNerd> go close to 0, 0
+[19:08:20] [Async Chat Thread - #83/INFO]: <MissSciFiNerd> thats where my base is
+[19:08:21] [Async Chat Thread - #83/INFO]: <SwimmingBird178> ok
+[19:08:33] [Async Chat Thread - #83/INFO]: <MissSciFiNerd> im trying to find more villages rn
+[19:09:04] [Async Chat Thread - #83/INFO]: <SwimmingBird178> oh wow very nice
+[19:10:41] [Async Chat Thread - #85/INFO]: <SwimmingBird178> ok gonna do some calc might come back
+[19:10:43] [Server thread/INFO]: SwimmingBird178 lost connection: Disconnected
+[19:10:43] [Server thread/INFO]: System chat: SwimmingBird178 left the game
+[19:26:39] [User Authenticator #147/INFO]: UUID of player vowelphobic is 7bb9089d-f951-4299-aade-2dfa548edd65
+[19:26:39] [Server thread/INFO]: System chat: vowelphobic joined the game
+[19:26:39] [Server thread/INFO]: vowelphobic[/0.0.0.0:0] logged in with entity id 198301 at ([minecraft:overworld]-10.87353391597557, 69.0, -12.40657798989856)
+[19:27:03] [Async Chat Thread - #87/INFO]: <vowelphobic> it's time to build the empire
+[19:27:18] [Async Chat Thread - #87/INFO]: <MissSciFiNerd> im trying really hard to transport villagers
+[19:27:25] [Async Chat Thread - #87/INFO]: <MissSciFiNerd> im at 1200 1700 lmao
+[19:27:29] [Async Chat Thread - #87/INFO]: <vowelphobic> oh wow
+[19:27:33] [Async Chat Thread - #87/INFO]: <vowelphobic> are the villagers not cooperating
+[19:27:54] [Async Chat Thread - #87/INFO]: <vowelphobic> ik we don't have elytra yet but i used to just put them in a boat then lead the boat
+[19:28:02] [Async Chat Thread - #87/INFO]: <MissSciFiNerd> the boats im trying to move them in keep sinking
+[19:28:06] [Async Chat Thread - #87/INFO]: <vowelphobic> oof
+[19:28:41] [Async Chat Thread - #87/INFO]: <MissSciFiNerd> im gonna leave one behind so i can actually prevent that
+[19:28:51] [Async Chat Thread - #87/INFO]: <MissSciFiNerd> by riding a boat myself
+[19:29:01] [Async Chat Thread - #87/INFO]: <MissSciFiNerd> im on a desert and dont have wood for another boatd
+[19:31:52] [User Authenticator #148/INFO]: UUID of player Grougan is cf26e611-7210-4f37-b07f-b51d8b2f013f
+[19:31:52] [Server thread/INFO]: Disconnecting Grougan (/0.0.0.0:0): You are not whitelisted on this server!
+[19:31:52] [Server thread/INFO]: Grougan (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[19:32:02] [Async Chat Thread - #89/INFO]: <vowelphobic> i'll log for you
+[19:32:03] [Server thread/INFO]: vowelphobic lost connection: Disconnected
+[19:32:03] [Server thread/INFO]: System chat: vowelphobic left the game
+[19:32:33] [User Authenticator #149/INFO]: UUID of player vowelphobic is 7bb9089d-f951-4299-aade-2dfa548edd65
+[19:32:33] [Server thread/INFO]: System chat: vowelphobic joined the game
+[19:32:33] [Server thread/INFO]: vowelphobic[/0.0.0.0:0] logged in with entity id 200865 at ([minecraft:overworld]208.8536682561329, 25.0, -9.300000011920929)
+[19:32:37] [Async Chat Thread - #89/INFO]: <vowelphobic> is it day
+[19:32:42] [Async Chat Thread - #89/INFO]: <MissSciFiNerd> yeah
+[19:32:47] [Async Chat Thread - #89/INFO]: <vowelphobic> alr good
+[19:33:02] [Async Chat Thread - #89/INFO]: <MissSciFiNerd> we're lucky, there is a huge system of rivers that connects 0,0 to this village
+[19:33:08] [Async Chat Thread - #89/INFO]: <MissSciFiNerd> so travel is easy
+[19:33:15] [Async Chat Thread - #89/INFO]: <vowelphobic> the mississippi river
+[19:33:26] [Async Chat Thread - #89/INFO]: <vowelphobic> our empire hath been blessed by link
+[19:33:26] [Async Chat Thread - #89/INFO]: <MissSciFiNerd> linkissippi
+[19:33:28] [Async Chat Thread - #89/INFO]: <vowelphobic> YES
+[19:35:16] [Server thread/INFO]: System chat: vowelphobic has made the advancement [Acquire Hardware]
+[19:35:28] [Server thread/INFO]: System chat: vowelphobic has made the advancement [Isn't It Iron Pick?]
+[19:37:54] [Server thread/INFO]: System chat: vowelphobic has made the advancement [Suit Up]
+[19:42:33] [Server thread/INFO]: vowelphobic lost connection: Disconnected
+[19:42:33] [Server thread/INFO]: System chat: vowelphobic left the game
+[19:42:40] [User Authenticator #150/INFO]: UUID of player vowelphobic is 7bb9089d-f951-4299-aade-2dfa548edd65
+[19:42:41] [Server thread/INFO]: System chat: vowelphobic joined the game
+[19:42:41] [Server thread/INFO]: vowelphobic[/0.0.0.0:0] logged in with entity id 204784 at ([minecraft:overworld]258.73171316885333, -8.0, 23.30000001192093)
+[19:42:43] [Async Chat Thread - #91/INFO]: <vowelphobic> is it good?
+[19:42:47] [Async Chat Thread - #91/INFO]: <MissSciFiNerd> yeah
+[19:44:38] [Server thread/INFO]: System chat: vowelphobic has made the advancement [Diamonds!]
+[19:44:42] [Async Chat Thread - #93/INFO]: <vowelphobic> :3
+[19:44:55] [Async Chat Thread - #93/INFO]: <MissSciFiNerd> ;0
+[19:45:20] [Async Chat Thread - #93/INFO]: <vowelphobic> aimbot skele
+[19:48:07] [Server thread/INFO]: System chat: vowelphobic has made the advancement [Cover Me with Diamonds]
+[19:48:13] [Async Chat Thread - #95/INFO]: <MissSciFiNerd> cool
+[19:48:27] [Async Chat Thread - #95/INFO]: <vowelphobic> diamond pick baby let's go
+[19:49:12] [Async Chat Thread - #95/INFO]: <MissSciFiNerd> now arriving in the linkissippi tributari
+[19:49:16] [Async Chat Thread - #95/INFO]: <vowelphobic> :fire:
+[19:49:37] [Async Chat Thread - #95/INFO]: <MissSciFiNerd> five more villagers acquired
+[19:53:41] [Server thread/INFO]: vowelphobic lost connection: Disconnected
+[19:53:41] [Server thread/INFO]: System chat: vowelphobic left the game
+[19:53:49] [User Authenticator #151/INFO]: UUID of player vowelphobic is 7bb9089d-f951-4299-aade-2dfa548edd65
+[19:53:49] [Server thread/INFO]: System chat: vowelphobic joined the game
+[19:53:49] [Server thread/INFO]: vowelphobic[/0.0.0.0:0] logged in with entity id 210584 at ([minecraft:overworld]314.30000001192093, -31.0, -159.02271683753943)
+[19:53:56] [Async Chat Thread - #97/INFO]: <MissSciFiNerd> all good
+[19:54:05] [Async Chat Thread - #97/INFO]: <vowelphobic> infinite diamonds
+[19:54:17] [Async Chat Thread - #97/INFO]: <MissSciFiNerd> are horse armor craftable now?
+[19:54:21] [Async Chat Thread - #97/INFO]: <vowelphobic> yes i think so
+[19:54:30] [Async Chat Thread - #97/INFO]: <MissSciFiNerd> i have 2 spare ones i found
+[19:54:45] [Async Chat Thread - #97/INFO]: <vowelphobic> lead crafting recipe changed to no longer need a slimeball i am so happy
+[19:54:53] [Async Chat Thread - #97/INFO]: <MissSciFiNerd> dude the spear is to broken with a fast horse, its not even enchanted and it two shots mobs
+[19:54:59] [Async Chat Thread - #97/INFO]: <vowelphobic> true yea
+[19:55:06] [Async Chat Thread - #97/INFO]: <vowelphobic> they could probably nerf it
+[19:55:56] [Async Chat Thread - #97/INFO]: <vowelphobic> AHH SPEAR ZOMB
+[19:56:13] [Async Chat Thread - #97/INFO]: <vowelphobic> my axe broke and i can't make a new one causes no wood :(
+[19:56:19] [Async Chat Thread - #97/INFO]: <MissSciFiNerd> just stay close to it, if it cant charge it does no damage
+[19:56:25] [Async Chat Thread - #97/INFO]: <vowelphobic> yea but no weapon anymore :(
+[19:56:30] [Async Chat Thread - #97/INFO]: <vowelphobic> i have a single stick
+[19:56:44] [Async Chat Thread - #97/INFO]: <MissSciFiNerd> okay then good luck lmao
+[19:56:47] [Async Chat Thread - #97/INFO]: <vowelphobic> i shoulda brought more wood into the mines lol
+[19:56:49] [Async Chat Thread - #97/INFO]: <vowelphobic> yea thanks
+[19:57:00] [Async Chat Thread - #97/INFO]: <vowelphobic> welp might as well dig up
+[19:59:09] [Async Chat Thread - #99/INFO]: <vowelphobic> i popped out in a savannah
+[19:59:19] [Async Chat Thread - #99/INFO]: <vowelphobic> next to probably the linkissippi
+[20:04:55] [Server thread/INFO]: vowelphobic lost connection: Disconnected
+[20:04:55] [Server thread/INFO]: System chat: vowelphobic left the game
+[20:05:00] [User Authenticator #152/INFO]: UUID of player vowelphobic is 7bb9089d-f951-4299-aade-2dfa548edd65
+[20:05:00] [Server thread/INFO]: System chat: vowelphobic joined the game
+[20:05:00] [Server thread/INFO]: vowelphobic[/0.0.0.0:0] logged in with entity id 213602 at ([minecraft:overworld]350.5768358801927, -23.034222200749994, -204.7704078372742)
+[20:05:31] [Async Chat Thread - #101/INFO]: <vowelphobic> holy diamond
+[20:06:34] [Server thread/INFO]: System chat: vowelphobic has made the advancement [Not Today, Thank You]
+[20:10:34] [Async Chat Thread - #103/INFO]: <vowelphobic> do you need anything while i'm mining
+[20:10:46] [Async Chat Thread - #103/INFO]: <MissSciFiNerd> maybe iron, my anvil broke
+[20:10:53] [Async Chat Thread - #103/INFO]: <MissSciFiNerd> ysm
+[20:10:55] [Async Chat Thread - #103/INFO]: <vowelphobic> alr gotcha
+[20:10:56] [Async Chat Thread - #103/INFO]: <MissSciFiNerd> tsym
+[20:13:25] [Async Chat Thread - #105/INFO]: <vowelphobic> massive tuff iron vein
+[20:13:55] [Async Chat Thread - #105/INFO]: <MissSciFiNerd> im gonna max out my pickaxe and immediately head into the mine
+[20:14:03] [Async Chat Thread - #105/INFO]: <vowelphobic> lol alr
+[20:14:04] [Async Chat Thread - #105/INFO]: <MissSciFiNerd> its gonna take me a bit tho
+[20:14:19] [Async Chat Thread - #105/INFO]: <vowelphobic> my coords are 262/-34/-14
+[20:14:22] [Async Chat Thread - #105/INFO]: <MissSciFiNerd> like, im not gonna do it now, once im done with villagers i will
+[20:14:25] [Async Chat Thread - #105/INFO]: <vowelphobic> but i'm probably gonna move to the next spot
+[20:14:27] [Async Chat Thread - #105/INFO]: <vowelphobic> gotcha lol
+[20:16:44] [Server thread/INFO]: vowelphobic lost connection: Disconnected
+[20:16:44] [Server thread/INFO]: System chat: vowelphobic left the game
+[20:16:50] [User Authenticator #153/INFO]: UUID of player vowelphobic is 7bb9089d-f951-4299-aade-2dfa548edd65
+[20:16:50] [Server thread/INFO]: System chat: vowelphobic joined the game
+[20:16:50] [Server thread/INFO]: vowelphobic[/0.0.0.0:0] logged in with entity id 217654 at ([minecraft:overworld]268.671472285323, -34.0, -3.199335406842407)
+[20:17:40] [Async Chat Thread - #107/INFO]: <vowelphobic> block of raw iron
+[20:17:41] [Async Chat Thread - #107/INFO]: <vowelphobic> noice
+[20:18:05] [Async Chat Thread - #107/INFO]: <MissSciFiNerd> didnt know those could naturally spawn
+[20:18:13] [Async Chat Thread - #107/INFO]: <vowelphobic> yea the tuff veins have em
+[20:18:18] [Async Chat Thread - #107/INFO]: <MissSciFiNerd> oh right, you want cords for a spawner?
+[20:18:22] [Async Chat Thread - #107/INFO]: <vowelphobic> i forgot what the tuff veins are called but they're named after smth irl
+[20:18:27] [Async Chat Thread - #107/INFO]: <vowelphobic> oh yea sure
+[20:18:37] [Async Chat Thread - #107/INFO]: <MissSciFiNerd> i think its a double spawner, i was hearing other mobs right next
+[20:18:41] [Async Chat Thread - #107/INFO]: <vowelphobic> ooooo
+[20:18:52] [User Authenticator #154/INFO]: UUID of player TheOkayGuy is b060bb96-0a6e-49b2-aa81-e77789d8b592
+[20:18:52] [Server thread/INFO]: Disconnecting TheOkayGuy (/0.0.0.0:0): You are not whitelisted on this server!
+[20:18:53] [Server thread/INFO]: TheOkayGuy (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[20:19:09] [Async Chat Thread - #107/INFO]: <MissSciFiNerd> 733, -10, 147
+[20:19:19] [Async Chat Thread - #107/INFO]: <vowelphobic> alr thanks!
+[20:19:22] [Async Chat Thread - #107/INFO]: <vowelphobic> is that our exp farm
+[20:19:27] [Async Chat Thread - #107/INFO]: <MissSciFiNerd> the other one should be about 10-20 blocks from it
+[20:19:35] [Async Chat Thread - #107/INFO]: <MissSciFiNerd> no, the xp farm is the armadillos
+[20:19:39] [Async Chat Thread - #107/INFO]: <vowelphobic> gotcha yea
+[20:19:42] [Async Chat Thread - #107/INFO]: <MissSciFiNerd> its like 40 levels per use
+[20:20:01] [Async Chat Thread - #107/INFO]: <vowelphobic> 10-20 blocks is actually insane cause that's double use range iirc
+[20:20:05] [Async Chat Thread - #107/INFO]: <MissSciFiNerd> and its not maxxed out, once i get all 24 armadillos it should be like 67 levels
+[20:20:07] [Async Chat Thread - #108/INFO]: <vowelphobic> what are the spawners
+[20:20:11] [Async Chat Thread - #108/INFO]: <vowelphobic> niiice
+[20:20:14] [Async Chat Thread - #108/INFO]: <MissSciFiNerd> no joke intended
+[20:20:54] [Async Chat Thread - #108/INFO]: <vowelphobic> link would be mind blown to think that someone our age has such a level of self-restraint when it comes to 67
+[20:20:59] [Async Chat Thread - #108/INFO]: <MissSciFiNerd> gotta hop off for like an hour, ill be back
+[20:21:03] [Async Chat Thread - #108/INFO]: <vowelphobic> alr cya
+[20:21:07] [Server thread/INFO]: MissSciFiNerd lost connection: Disconnected
+[20:21:07] [Server thread/INFO]: System chat: MissSciFiNerd left the game
+[20:26:52] [Server thread/INFO]: System chat: vowelphobic has made the advancement [Sneak 100]
+[20:47:09] [User Authenticator #155/INFO]: UUID of player Grougan is cf26e611-7210-4f37-b07f-b51d8b2f013f
+[20:47:09] [Server thread/INFO]: Disconnecting Grougan (/0.0.0.0:0): You are not whitelisted on this server!
+[20:47:09] [Server thread/INFO]: Grougan (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[20:49:23] [Server thread/INFO]: vowelphobic lost connection: Disconnected
+[20:49:23] [Server thread/INFO]: System chat: vowelphobic left the game
+[20:50:04] [User Authenticator #156/INFO]: UUID of player vowelphobic is 7bb9089d-f951-4299-aade-2dfa548edd65
+[20:50:04] [Server thread/INFO]: System chat: vowelphobic joined the game
+[20:50:04] [Server thread/INFO]: vowelphobic[/0.0.0.0:0] logged in with entity id 224527 at ([minecraft:overworld]-8.931562919729208, 69.0, -10.423842729695142)
+[20:50:22] [User Authenticator #157/INFO]: UUID of player Grougan is cf26e611-7210-4f37-b07f-b51d8b2f013f
+[20:50:22] [Server thread/INFO]: Disconnecting Grougan (/0.0.0.0:0): You are not whitelisted on this server!
+[20:50:23] [Server thread/INFO]: Grougan (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[20:51:01] [Server thread/INFO]: vowelphobic lost connection: Disconnected
+[20:51:01] [Server thread/INFO]: System chat: vowelphobic left the game
+[20:51:34] [User Authenticator #158/INFO]: UUID of player vowelphobic is 7bb9089d-f951-4299-aade-2dfa548edd65
+[20:51:34] [Server thread/INFO]: System chat: vowelphobic joined the game
+[20:51:34] [Server thread/INFO]: vowelphobic[/0.0.0.0:0] logged in with entity id 225041 at ([minecraft:overworld]-9.15910706195676, 69.0, -10.604238493677002)
+[20:51:41] [Server thread/INFO]: System chat: vowelphobic has made the advancement [Enchanter]
+[20:53:01] [User Authenticator #159/INFO]: UUID of player Kamish_Saladin is 6ec7d9a9-a120-4f0c-abf9-ab315645b858
+[20:53:01] [Server thread/INFO]: Disconnecting Kamish_Saladin (/0.0.0.0:0): You are not whitelisted on this server!
+[20:53:01] [Server thread/INFO]: Kamish_Saladin (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[20:53:31] [User Authenticator #160/INFO]: UUID of player TheOkayGuy is b060bb96-0a6e-49b2-aa81-e77789d8b592
+[20:53:31] [Server thread/INFO]: Disconnecting TheOkayGuy (/0.0.0.0:0): You are not whitelisted on this server!
+[20:53:31] [Server thread/INFO]: TheOkayGuy (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[20:53:38] [Server thread/INFO]: vowelphobic lost connection: Disconnected
+[20:53:38] [Server thread/INFO]: System chat: vowelphobic left the game
+[20:54:54] [User Authenticator #161/INFO]: UUID of player Kamish_Saladin is 6ec7d9a9-a120-4f0c-abf9-ab315645b858
+[20:54:54] [Server thread/INFO]: Disconnecting Kamish_Saladin (/0.0.0.0:0): You are not whitelisted on this server!
+[20:54:54] [Server thread/INFO]: Kamish_Saladin (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[20:55:35] [User Authenticator #162/INFO]: UUID of player TheOkayGuy is b060bb96-0a6e-49b2-aa81-e77789d8b592
+[20:55:35] [Server thread/INFO]: Disconnecting TheOkayGuy (/0.0.0.0:0): You are not whitelisted on this server!
+[20:55:35] [Server thread/INFO]: TheOkayGuy (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[20:56:25] [User Authenticator #163/INFO]: UUID of player TheOkayGuy is b060bb96-0a6e-49b2-aa81-e77789d8b592
+[20:56:25] [Server thread/INFO]: Disconnecting TheOkayGuy (/0.0.0.0:0): You are not whitelisted on this server!
+[20:56:25] [Server thread/INFO]: TheOkayGuy (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[20:56:37] [User Authenticator #164/INFO]: UUID of player Grougan is cf26e611-7210-4f37-b07f-b51d8b2f013f
+[20:56:37] [Server thread/INFO]: Disconnecting Grougan (/0.0.0.0:0): You are not whitelisted on this server!
+[20:56:37] [Server thread/INFO]: Grougan (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[21:00:07] [User Authenticator #165/INFO]: UUID of player vowelphobic is 7bb9089d-f951-4299-aade-2dfa548edd65
+[21:00:07] [Server thread/INFO]: System chat: vowelphobic joined the game
+[21:00:07] [Server thread/INFO]: vowelphobic[/0.0.0.0:0] logged in with entity id 225582 at ([minecraft:overworld]10.038443635690827, 73.0, -15.879050807026832)
+[21:02:41] [User Authenticator #166/INFO]: UUID of player MissSciFiNerd is 02dcdbd9-84e3-44e3-8f97-9af7de34ff8a
+[21:02:42] [Server thread/INFO]: System chat: MissSciFiNerd joined the game
+[21:02:42] [Server thread/INFO]: MissSciFiNerd[/0.0.0.0:0] logged in with entity id 226314 at ([minecraft:overworld]2.3614732588134104, 68.0, -31.56410578399382)
+[21:02:44] [Async Chat Thread - #112/INFO]: <vowelphobic> wb
+[21:02:53] [Async Chat Thread - #112/INFO]: <MissSciFiNerd> hello! it's me, grace this time
+[21:03:08] [Async Chat Thread - #112/INFO]: <vowelphobic> was it not grace the last time lol
+[21:03:32] [User Authenticator #167/INFO]: UUID of player SwimmingBird178 is 50ef94f4-bc6c-4015-b290-b42deddac5b3
+[21:03:33] [Server thread/INFO]: System chat: SwimmingBird178 joined the game
+[21:03:33] [Server thread/INFO]: SwimmingBird178[/0.0.0.0:0] logged in with entity id 226650 at ([minecraft:overworld]97.25311072404362, 67.0, -52.10690844734678)
+[21:03:34] [Async Chat Thread - #112/INFO]: <MissSciFiNerd> nope! sergio's been playing on my account :D I haven't played since friday
+[21:03:38] [Async Chat Thread - #112/INFO]: <vowelphobic> oh LOL
+[21:04:06] [Async Chat Thread - #112/INFO]: <vowelphobic> also hi bradley
+[21:04:10] [Async Chat Thread - #112/INFO]: <SwimmingBird178> hello
+[21:04:18] [Async Chat Thread - #112/INFO]: <SwimmingBird178> Daniel right?
+[21:04:20] [Async Chat Thread - #112/INFO]: <vowelphobic> yes
+[21:04:22] [Async Chat Thread - #112/INFO]: <SwimmingBird178> hey
+[21:04:43] [Async Chat Thread - #112/INFO]: <vowelphobic> SO MANY MOBS
+[21:04:56] [Async Chat Thread - #112/INFO]: <vowelphobic> ok city time
+[21:05:50] [Server thread/INFO]: System chat: SwimmingBird178 has made the advancement [A Seedy Place]
+[21:06:23] [Async Chat Thread - #114/INFO]: <vowelphobic> swift sneak 3 chat
+[21:06:27] [Async Chat Thread - #114/INFO]: <MissSciFiNerd> ooooooh
+[21:06:40] [Async Chat Thread - #114/INFO]: <vowelphobic> EFFICIENCY FIVE HOE YESSIR
+[21:06:55] [Async Chat Thread - #114/INFO]: <vowelphobic> i need this to mine all of those hay bales i accidentally place everywhere
+[21:07:19] [Async Chat Thread - #114/INFO]: <MissSciFiNerd> how and why t-t?
+[21:07:32] [Async Chat Thread - #114/INFO]: <vowelphobic> i sneezed
+[21:07:39] [Async Chat Thread - #114/INFO]: <MissSciFiNerd> ah, fair
+[21:09:48] [Async Chat Thread - #116/INFO]: <vowelphobic> we are going to make this city habitable
+[21:09:51] [Async Chat Thread - #116/INFO]: <vowelphobic> one shrieker at atime
+[21:11:28] [Async Chat Thread - #118/INFO]: <MissSciFiNerd> who doesn't have a bed 0-0
+[21:11:30] [Async Chat Thread - #118/INFO]: <vowelphobic> woah sleeping makes a lot of noise apparently
+[21:11:34] [Async Chat Thread - #118/INFO]: <SwimmingBird178> me, ill leave
+[21:11:35] [Async Chat Thread - #118/INFO]: <MissSciFiNerd> ooh
+[21:11:37] [Server thread/INFO]: vowelphobic lost connection: Disconnected
+[21:11:37] [Server thread/INFO]: System chat: vowelphobic left the game
+[21:11:38] [Async Chat Thread - #118/INFO]: <SwimmingBird178> hold on
+[21:11:40] [Server thread/INFO]: SwimmingBird178 lost connection: Disconnected
+[21:11:40] [Server thread/INFO]: System chat: SwimmingBird178 left the game
+[21:11:46] [User Authenticator #168/INFO]: UUID of player vowelphobic is 7bb9089d-f951-4299-aade-2dfa548edd65
+[21:11:46] [Server thread/INFO]: System chat: vowelphobic joined the game
+[21:11:46] [Server thread/INFO]: vowelphobic[/0.0.0.0:0] logged in with entity id 230635 at ([minecraft:overworld]471.013009122638, -49.0, -4.078373248661836)
+[21:11:47] [User Authenticator #169/INFO]: UUID of player SwimmingBird178 is 50ef94f4-bc6c-4015-b290-b42deddac5b3
+[21:11:48] [Server thread/INFO]: System chat: SwimmingBird178 joined the game
+[21:11:48] [Server thread/INFO]: SwimmingBird178[/0.0.0.0:0] logged in with entity id 230684 at ([minecraft:overworld]-699.668638951378, 62.110764312744145, -181.155205446335)
+[21:11:51] [Async Chat Thread - #118/INFO]: <vowelphobic> neat
+[21:11:56] [Async Chat Thread - #118/INFO]: <MissSciFiNerd> what happened?
+[21:12:01] [Async Chat Thread - #118/INFO]: <SwimmingBird178> left so you can sleep
+[21:12:27] [Async Chat Thread - #118/INFO]: <vowelphobic> strike one
+[21:12:40] [Async Chat Thread - #118/INFO]: <vowelphobic> strike two becauses i'm dumb dangi t
+[21:12:49] [Async Chat Thread - #118/INFO]: <MissSciFiNerd> uh oh
+[21:13:19] [Async Chat Thread - #118/INFO]: <SwimmingBird178> im in middle of super large ocean, stopping by monument now lol
+[21:13:32] [Async Chat Thread - #118/INFO]: <MissSciFiNerd> can we have the coords?
+[21:13:40] [Async Chat Thread - #118/INFO]: <MissSciFiNerd> (not that I'll go there soon)
+[21:13:44] [Async Chat Thread - #118/INFO]: <SwimmingBird178> yeah dont have anything to fight it anyways
+[21:13:57] [Async Chat Thread - #118/INFO]: <SwimmingBird178> -1193 -306
+[21:13:58] [Async Chat Thread - #118/INFO]: <vowelphobic> the only thing actively frightening to me in minecraft is the elder guardian jumpscare
+[21:15:53] [Async Chat Thread - #120/INFO]: <vowelphobic> bro there are no chests
+[21:17:24] [Async Chat Thread - #122/INFO]: <vowelphobic> why are there an exorbitant amount of shriekers
+[21:17:32] [Async Chat Thread - #122/INFO]: <vowelphobic> cruel and unusual
+[21:17:37] [Async Chat Thread - #122/INFO]: <SwimmingBird178> guys i found a cherry
+[21:17:42] [Async Chat Thread - #122/INFO]: <vowelphobic> YAY
+[21:17:44] [Async Chat Thread - #122/INFO]: <vowelphobic> brb
+[21:17:44] [Server thread/INFO]: vowelphobic lost connection: Disconnected
+[21:17:44] [Server thread/INFO]: System chat: vowelphobic left the game
+[21:22:23] [Server thread/INFO]: SwimmingBird178 lost connection: Disconnected
+[21:22:23] [Server thread/INFO]: System chat: SwimmingBird178 left the game
+[21:22:29] [User Authenticator #170/INFO]: UUID of player SwimmingBird178 is 50ef94f4-bc6c-4015-b290-b42deddac5b3
+[21:22:29] [Server thread/INFO]: System chat: SwimmingBird178 joined the game
+[21:22:29] [Server thread/INFO]: SwimmingBird178[/0.0.0.0:0] logged in with entity id 238723 at ([minecraft:overworld]-1924.2677299086397, 74.0, -892.8756820943976)
+[21:22:37] [Async Chat Thread - #124/INFO]: <MissSciFiNerd> thank you o-o
+[21:22:52] [Async Chat Thread - #124/INFO]: <SwimmingBird178> np prob would have died so thanks
+[21:24:48] [Async Chat Thread - #126/INFO]: <SwimmingBird178> at large taiga
+[21:24:53] [Async Chat Thread - #126/INFO]: <MissSciFiNerd> oooooh
+[21:26:17] [User Authenticator #171/INFO]: UUID of player vowelphobic is 7bb9089d-f951-4299-aade-2dfa548edd65
+[21:26:17] [Server thread/INFO]: System chat: vowelphobic joined the game
+[21:26:17] [Server thread/INFO]: vowelphobic[/0.0.0.0:0] logged in with entity id 241943 at ([minecraft:overworld]538.9759774476545, -41.0, 178.1168133221055)
+[21:26:17] [Server thread/WARN]: vowelphobic moved too quickly! 538.9759774476545,-41.0,178.1168133221055
+[21:26:43] [Async Chat Thread - #128/INFO]: <vowelphobic> we love iambic pentameter
+[21:27:51] [Async Chat Thread - #130/INFO]: <vowelphobic> he's just standing there
+[21:27:52] [Async Chat Thread - #131/INFO]: <vowelphobic> MENACINGLY
+[21:30:02] [Server thread/INFO]: MissSciFiNerd lost connection: Disconnected
+[21:30:02] [Server thread/INFO]: System chat: MissSciFiNerd left the game
+[21:31:32] [Async Chat Thread - #132/INFO]: <vowelphobic> why hasn't he despawned yet
+[21:33:26] [Server thread/INFO]: vowelphobic lost connection: Disconnected
+[21:33:26] [Server thread/INFO]: System chat: vowelphobic left the game
+[21:33:31] [User Authenticator #172/INFO]: UUID of player vowelphobic is 7bb9089d-f951-4299-aade-2dfa548edd65
+[21:33:32] [Server thread/INFO]: System chat: vowelphobic joined the game
+[21:33:32] [Server thread/INFO]: vowelphobic[/0.0.0.0:0] logged in with entity id 246199 at ([minecraft:overworld]525.0780471355146, -44.0, 150.27909505631985)
+[21:35:22] [Async Chat Thread - #135/INFO]: <vowelphobic> OTHERSIDE
+[21:44:54] [Server thread/INFO]: vowelphobic lost connection: Disconnected
+[21:44:54] [Server thread/INFO]: System chat: vowelphobic left the game
+[21:45:00] [User Authenticator #173/INFO]: UUID of player vowelphobic is 7bb9089d-f951-4299-aade-2dfa548edd65
+[21:45:00] [Server thread/INFO]: System chat: vowelphobic joined the game
+[21:45:00] [Server thread/INFO]: vowelphobic[/0.0.0.0:0] logged in with entity id 252911 at ([minecraft:overworld]368.65429834606965, -50.0, 63.62115203547126)
+[21:45:07] [User Authenticator #174/INFO]: UUID of player SpaceStation905 is a5247561-d340-4a4a-ae31-3f1efbb89dea
+[21:45:07] [Server thread/INFO]: Disconnecting SpaceStation905 (/0.0.0.0:0): You are not whitelisted on this server!
+[21:45:07] [Server thread/INFO]: SpaceStation905 (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[21:56:24] [Server thread/INFO]: vowelphobic lost connection: Disconnected
+[21:56:24] [Server thread/INFO]: System chat: vowelphobic left the game
+[21:56:30] [User Authenticator #175/INFO]: UUID of player vowelphobic is 7bb9089d-f951-4299-aade-2dfa548edd65
+[21:56:31] [Server thread/INFO]: System chat: vowelphobic joined the game
+[21:56:31] [Server thread/INFO]: vowelphobic[/0.0.0.0:0] logged in with entity id 256430 at ([minecraft:overworld]488.39092892480664, -47.0, -31.101854929049527)
+[21:56:42] [Async Chat Thread - #138/INFO]: <SwimmingBird178> thanks
+[21:56:55] [Async Chat Thread - #138/INFO]: <vowelphobic> i am in a precarious situation
+[21:57:00] [Async Chat Thread - #138/INFO]: <SwimmingBird178> where
+[21:57:02] [Async Chat Thread - #138/INFO]: <vowelphobic> leaving the server unshifted me
+[21:57:07] [Async Chat Thread - #138/INFO]: <vowelphobic> and now there is a warden
+[21:57:13] [Async Chat Thread - #138/INFO]: <SwimmingBird178> oh
+[21:57:14] [Async Chat Thread - #138/INFO]: <vowelphobic> suboptimal strat
+[21:57:29] [Async Chat Thread - #138/INFO]: <vowelphobic> i will be soloing this warden with my sharpness V fists
+[21:59:17] [Server thread/INFO]: System chat: SwimmingBird178 has made the advancement [Fishy Business]
+[21:59:30] [Async Chat Thread - #140/INFO]: <vowelphobic> lootus maximus
+[21:59:35] [Async Chat Thread - #140/INFO]: <vowelphobic> i have discovered a ward armor trim
+[21:59:40] [Async Chat Thread - #140/INFO]: <SwimmingBird178> woah
+[21:59:42] [Async Chat Thread - #140/INFO]: <vowelphobic> it is time to return
+[22:04:34] [Server thread/INFO]: vowelphobic lost connection: Disconnected
+[22:04:34] [Server thread/INFO]: System chat: vowelphobic left the game
+[22:04:55] [User Authenticator #176/INFO]: UUID of player vowelphobic is 7bb9089d-f951-4299-aade-2dfa548edd65
+[22:04:55] [Server thread/INFO]: System chat: vowelphobic joined the game
+[22:04:55] [Server thread/INFO]: vowelphobic[/0.0.0.0:0] logged in with entity id 258679 at ([minecraft:overworld]313.21081402461914, -23.0, -36.69999998807907)
+[22:06:02] [Async Chat Thread - #143/INFO]: <vowelphobic> i hath returned
+[22:06:29] [Async Chat Thread - #143/INFO]: <SwimmingBird178> yay
+[22:08:03] [Server thread/INFO]: SwimmingBird178 lost connection: Disconnected
+[22:08:03] [Server thread/INFO]: System chat: SwimmingBird178 left the game
+[22:08:07] [User Authenticator #177/INFO]: UUID of player SwimmingBird178 is 50ef94f4-bc6c-4015-b290-b42deddac5b3
+[22:08:07] [Server thread/INFO]: System chat: SwimmingBird178 joined the game
+[22:08:07] [Server thread/INFO]: SwimmingBird178[/0.0.0.0:0] logged in with entity id 259723 at ([minecraft:overworld]62.12122684974995, 83.0, -201.94009830854588)
+[22:08:09] [Async Chat Thread - #145/INFO]: <vowelphobic> thank u
+[22:08:18] [Async Chat Thread - #146/INFO]: <SwimmingBird178> np
+[22:12:05] [User Authenticator #178/INFO]: UUID of player MissSciFiNerd is 02dcdbd9-84e3-44e3-8f97-9af7de34ff8a
+[22:12:06] [Server thread/INFO]: System chat: MissSciFiNerd joined the game
+[22:12:06] [Server thread/INFO]: MissSciFiNerd[/0.0.0.0:0] logged in with entity id 260936 at ([minecraft:overworld]-6.068727592979964, 69.0, 5.736659942024867)
+[22:12:10] [Async Chat Thread - #147/INFO]: <vowelphobic> wb
+[22:12:14] [Async Chat Thread - #148/INFO]: <MissSciFiNerd> ty
+[22:12:20] [Async Chat Thread - #148/INFO]: <vowelphobic> is it sergio or grace
+[22:19:07] [Async Chat Thread - #149/INFO]: <vowelphobic> welcome to the otherside
+[22:19:12] [Async Chat Thread - #149/INFO]: <vowelphobic> NOOO :(
+[22:19:16] [Async Chat Thread - #149/INFO]: <vowelphobic> yay
+[22:19:20] [Async Chat Thread - #149/INFO]: <MissSciFiNerd> sorry lmao
+[22:19:29] [Async Chat Thread - #149/INFO]: <MissSciFiNerd> found a random thing and clicked it
+[22:19:35] [Async Chat Thread - #149/INFO]: <vowelphobic> yea i put it there
+[22:19:43] [Server thread/INFO]: SwimmingBird178 lost connection: Disconnected
+[22:19:43] [Server thread/INFO]: System chat: SwimmingBird178 left the game
+[22:19:53] [User Authenticator #179/INFO]: UUID of player SwimmingBird178 is 50ef94f4-bc6c-4015-b290-b42deddac5b3
+[22:19:53] [Server thread/INFO]: System chat: SwimmingBird178 joined the game
+[22:19:53] [Server thread/INFO]: SwimmingBird178[/0.0.0.0:0] logged in with entity id 263414 at ([minecraft:overworld]63.22592013316481, 66.0, -190.32611169630724)
+[22:19:55] [Async Chat Thread - #149/INFO]: <vowelphobic> wb
+[22:20:02] [Async Chat Thread - #149/INFO]: <SwimmingBird178> could someone sleep please
+[22:20:05] [Async Chat Thread - #149/INFO]: <SwimmingBird178> if possible
+[22:20:12] [Async Chat Thread - #149/INFO]: <MissSciFiNerd> sure, what for?
+[22:20:16] [Async Chat Thread - #149/INFO]: <SwimmingBird178> so i dont die lol
+[22:20:18] [Async Chat Thread - #149/INFO]: <vowelphobic> to make it day time
+[22:20:23] [Async Chat Thread - #149/INFO]: <SwimmingBird178> dont have bed
+[22:20:24] [Async Chat Thread - #149/INFO]: <vowelphobic> you use this beed
+[22:20:25] [Async Chat Thread - #149/INFO]: <vowelphobic> bed
+[22:20:27] [User Authenticator #180/INFO]: UUID of player Dqrkxzz is 27899981-389e-4678-a660-39d49da74394
+[22:20:27] [Server thread/INFO]: Disconnecting Dqrkxzz (/0.0.0.0:0): You are not whitelisted on this server!
+[22:20:27] [Server thread/INFO]: Dqrkxzz (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[22:20:29] [Server thread/INFO]: vowelphobic lost connection: Disconnected
+[22:20:29] [Server thread/INFO]: System chat: vowelphobic left the game
+[22:20:30] [Server thread/INFO]: SwimmingBird178 lost connection: Disconnected
+[22:20:30] [Server thread/INFO]: System chat: SwimmingBird178 left the game
+[22:20:37] [User Authenticator #181/INFO]: UUID of player vowelphobic is 7bb9089d-f951-4299-aade-2dfa548edd65
+[22:20:38] [Server thread/INFO]: System chat: vowelphobic joined the game
+[22:20:38] [Server thread/INFO]: vowelphobic[/0.0.0.0:0] logged in with entity id 263672 at ([minecraft:overworld]7.46507820188719, 69.0, -28.573073984405372)
+[22:20:39] [User Authenticator #182/INFO]: UUID of player SwimmingBird178 is 50ef94f4-bc6c-4015-b290-b42deddac5b3
+[22:20:39] [Server thread/INFO]: System chat: SwimmingBird178 joined the game
+[22:20:39] [Server thread/INFO]: SwimmingBird178[/0.0.0.0:0] logged in with entity id 263675 at ([minecraft:overworld]36.84731964165703, 61.0, -199.61241722179244)
+[22:20:41] [Async Chat Thread - #149/INFO]: <vowelphobic> ok good
+[22:20:44] [Async Chat Thread - #149/INFO]: <SwimmingBird178> thanks
+[22:20:46] [User Authenticator #183/INFO]: UUID of player Lunar_Milk is 0537b32a-78af-45f1-b752-ff730b489903
+[22:20:46] [Server thread/INFO]: Disconnecting Lunar_Milk (/0.0.0.0:0): You are not whitelisted on this server!
+[22:20:46] [Server thread/INFO]: Lunar_Milk (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[22:21:02] [Async Chat Thread - #149/INFO]: <MissSciFiNerd> if anyone has spare spider eyes could you please breed the armadillos?
+[22:21:11] [Async Chat Thread - #149/INFO]: <vowelphobic> none, sorry :9
+[22:21:18] [Async Chat Thread - #149/INFO]: <vowelphobic> wait are you sergio or grace
+[22:21:25] [Async Chat Thread - #149/INFO]: <MissSciFiNerd> Sergio
+[22:21:33] [Async Chat Thread - #149/INFO]: <vowelphobic> ok hii
+[22:21:34] [Async Chat Thread - #149/INFO]: <MissSciFiNerd> ive been playing on Grace's acc
+[22:21:37] [Async Chat Thread - #149/INFO]: <vowelphobic> lol
+[22:22:24] [Async Chat Thread - #149/INFO]: <vowelphobic> i need glowstone for more potions
+[22:22:33] [Async Chat Thread - #149/INFO]: <MissSciFiNerd> i have some in my chest
+[22:22:44] [Async Chat Thread - #149/INFO]: <vowelphobic> ok thank you
+[22:23:26] [Async Chat Thread - #149/INFO]: <vowelphobic> nvm lol it was stone i needed.i can make that
+[22:23:38] [Async Chat Thread - #149/INFO]: <MissSciFiNerd> silverfish pots?
+[22:24:57] [Server thread/INFO]: System chat: vowelphobic has made the advancement [Local Brewery]
+[22:31:28] [Async Chat Thread - #151/INFO]: <MissSciFiNerd> speed pot?
+[22:31:32] [Async Chat Thread - #151/INFO]: <vowelphobic> swift sneak enchantment
+[22:31:40] [Async Chat Thread - #151/INFO]: <MissSciFiNerd> OH, forgot that existed
+[22:31:46] [Async Chat Thread - #151/INFO]: <vowelphobic> ye it's new
+[22:31:47] [Async Chat Thread - #151/INFO]: <vowelphobic> well ish
+[22:33:22] [Server thread/INFO]: System chat: SwimmingBird178 has made the advancement [Not Today, Thank You]
+[22:33:43] [Server thread/INFO]: System chat: SwimmingBird178 has made the advancement [Diamonds!]
+[22:35:46] [Async Chat Thread - #153/INFO]: <MissSciFiNerd> should i zombify first then try to get trades? or the other way around
+[22:36:00] [Async Chat Thread - #153/INFO]: <vowelphobic> i do other way around
+[22:36:06] [Async Chat Thread - #153/INFO]: <MissSciFiNerd> like, if i have a villager with mending, will he lose that once hes zombified and cured?
+[22:36:08] [Async Chat Thread - #153/INFO]: <vowelphobic> once you get a good trade, lock it in
+[22:36:10] [Async Chat Thread - #153/INFO]: <vowelphobic> then zombify
+[22:36:18] [Async Chat Thread - #153/INFO]: <vowelphobic> nah if you lock it in then it'll be fine
+[22:36:19] [Async Chat Thread - #153/INFO]: <MissSciFiNerd> ok
+[22:36:26] [Async Chat Thread - #153/INFO]: <vowelphobic> just buy something from him in order to lock it in iirc
+[22:36:34] [Async Chat Thread - #153/INFO]: <vowelphobic> or maybe you need to buy a few things i don't recall
+[22:37:53] [Async Chat Thread - #155/INFO]: <vowelphobic> creeper country
+[22:37:57] [User Authenticator #184/INFO]: UUID of player alkoxy42 is e22599df-9828-4118-b120-9671aa1374f3
+[22:37:57] [Server thread/INFO]: Disconnecting alkoxy42 (/0.0.0.0:0): You are not whitelisted on this server!
+[22:37:57] [Server thread/INFO]: alkoxy42 (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[22:39:43] [Server thread/INFO]: vowelphobic lost connection: Disconnected
+[22:39:43] [Server thread/INFO]: System chat: vowelphobic left the game
+[22:41:28] [User Authenticator #185/INFO]: UUID of player Sushislushie389 is 72949f63-4c9e-47f5-ae95-a4cf66593a9c
+[22:41:28] [Server thread/INFO]: Disconnecting Sushislushie389 (/0.0.0.0:0): You are not whitelisted on this server!
+[22:41:28] [Server thread/INFO]: Sushislushie389 (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[22:45:51] [Server thread/INFO]: System chat: SwimmingBird178 was slain by Zombie
+[22:54:22] [Async Chat Thread - #157/INFO]: <SwimmingBird178> could you sleep pls
+[22:54:29] [Async Chat Thread - #157/INFO]: <SwimmingBird178> if you can
+[22:54:36] [Server thread/INFO]: SwimmingBird178 lost connection: Disconnected
+[22:54:36] [Server thread/INFO]: System chat: SwimmingBird178 left the game
+[22:54:40] [User Authenticator #186/INFO]: UUID of player SwimmingBird178 is 50ef94f4-bc6c-4015-b290-b42deddac5b3
+[22:54:40] [Server thread/INFO]: System chat: SwimmingBird178 joined the game
+[22:54:40] [Server thread/INFO]: SwimmingBird178[/0.0.0.0:0] logged in with entity id 275309 at ([minecraft:overworld]37.18426903570013, 61.0, -199.69999998807907)
+[22:54:48] [Async Chat Thread - #157/INFO]: <MissSciFiNerd> one of my villagers ran off and i was trying to find him
+[22:54:54] [Async Chat Thread - #157/INFO]: <MissSciFiNerd> bro is a magician
+[22:54:57] [Async Chat Thread - #157/INFO]: <SwimmingBird178> oh haha
+[23:06:20] [Async Chat Thread - #159/INFO]: <SwimmingBird178> sleep possible gonna get sheep at day
+[23:06:32] [Server thread/INFO]: SwimmingBird178 lost connection: Disconnected
+[23:06:32] [Server thread/INFO]: System chat: SwimmingBird178 left the game
+[23:06:40] [User Authenticator #187/INFO]: UUID of player SwimmingBird178 is 50ef94f4-bc6c-4015-b290-b42deddac5b3
+[23:06:40] [Server thread/INFO]: System chat: SwimmingBird178 joined the game
+[23:06:40] [Server thread/INFO]: SwimmingBird178[/0.0.0.0:0] logged in with entity id 278315 at ([minecraft:overworld]31.92762159755669, 68.0, -193.24748139970737)
+[23:06:40] [Server thread/WARN]: SwimmingBird178 moved too quickly! 31.92762159755669,68.0,-193.24748139970737
+[23:06:42] [Async Chat Thread - #159/INFO]: <SwimmingBird178> merci
+[23:13:58] [Async Chat Thread - #161/INFO]: <MissSciFiNerd> guys
+[23:14:02] [Async Chat Thread - #161/INFO]: <SwimmingBird178> yeah
+[23:14:06] [Async Chat Thread - #161/INFO]: <MissSciFiNerd> got a stupid good villager
+[23:14:13] [Async Chat Thread - #161/INFO]: <MissSciFiNerd> looting 3 and fire aspect 2
+[23:14:15] [Async Chat Thread - #161/INFO]: <SwimmingBird178> wha
+[23:14:17] [Async Chat Thread - #161/INFO]: <SwimmingBird178> thats good
+[23:16:45] [Async Chat Thread - #163/INFO]: <MissSciFiNerd> i need to kill some spiders
+[23:16:54] [Async Chat Thread - #163/INFO]: <MissSciFiNerd> is it okay if i dont sleep?
+[23:16:57] [Async Chat Thread - #163/INFO]: <SwimmingBird178> yeah
+[23:26:43] [Async Chat Thread - #165/INFO]: <MissSciFiNerd> none of the spiders dropped spider eyes :(
+[23:26:48] [Async Chat Thread - #165/INFO]: <SwimmingBird178> :(
+[23:37:55] [User Authenticator #188/INFO]: UUID of player Grougan is cf26e611-7210-4f37-b07f-b51d8b2f013f
+[23:37:55] [Server thread/INFO]: Disconnecting Grougan (/0.0.0.0:0): You are not whitelisted on this server!
+[23:37:55] [Server thread/INFO]: Grougan (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[23:38:01] [User Authenticator #189/INFO]: UUID of player Grougan is cf26e611-7210-4f37-b07f-b51d8b2f013f
+[23:38:01] [Server thread/INFO]: Disconnecting Grougan (/0.0.0.0:0): You are not whitelisted on this server!
+[23:38:01] [Server thread/INFO]: Grougan (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[23:38:47] [User Authenticator #190/INFO]: UUID of player Teaq01 is 551ed771-9ba5-4a15-abad-67b81c15c5cc
+[23:38:47] [Server thread/INFO]: Disconnecting Teaq01 (/0.0.0.0:0): You are not whitelisted on this server!
+[23:38:47] [Server thread/INFO]: Teaq01 (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[23:38:56] [User Authenticator #191/INFO]: UUID of player Teaq01 is 551ed771-9ba5-4a15-abad-67b81c15c5cc
+[23:38:56] [Server thread/INFO]: Disconnecting Teaq01 (/0.0.0.0:0): You are not whitelisted on this server!
+[23:38:57] [Server thread/INFO]: Teaq01 (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[23:39:50] [Server thread/INFO]: System chat: Added Grougan to the whitelist
+[23:39:56] [Server thread/INFO]: System chat: Added Teaq01 to the whitelist
+[23:40:15] [Server thread/INFO]: System chat: Reloaded the whitelist
+[23:40:23] [User Authenticator #192/INFO]: UUID of player Dqrkxzz is 27899981-389e-4678-a660-39d49da74394
+[23:40:23] [Server thread/INFO]: Disconnecting Dqrkxzz (/0.0.0.0:0): You are not whitelisted on this server!
+[23:40:23] [Server thread/INFO]: Dqrkxzz (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[23:41:06] [User Authenticator #193/INFO]: UUID of player Grougan is cf26e611-7210-4f37-b07f-b51d8b2f013f
+[23:41:06] [Server thread/INFO]: System chat: Grougan joined the game
+[23:41:06] [Server thread/INFO]: Grougan[/0.0.0.0:0] logged in with entity id 288925 at ([minecraft:overworld]1.5, 72.0, -6.5)
+[23:41:11] [User Authenticator #194/INFO]: UUID of player alkoxy42 is e22599df-9828-4118-b120-9671aa1374f3
+[23:41:11] [Server thread/INFO]: Disconnecting alkoxy42 (/0.0.0.0:0): You are not whitelisted on this server!
+[23:41:11] [Server thread/INFO]: alkoxy42 (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[23:41:31] [User Authenticator #195/INFO]: UUID of player Dqrkxzz is 27899981-389e-4678-a660-39d49da74394
+[23:41:31] [Server thread/INFO]: Disconnecting Dqrkxzz (/0.0.0.0:0): You are not whitelisted on this server!
+[23:41:31] [Server thread/INFO]: Dqrkxzz (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[23:41:43] [Async Chat Thread - #167/INFO]: <MissSciFiNerd> yo, whoever isnt busy, try getting a mending villager?
+[23:41:52] [Async Chat Thread - #167/INFO]: <MissSciFiNerd> leave the good ones alone obv
+[23:41:55] [Server thread/INFO]: Grougan lost connection: Disconnected
+[23:41:55] [Server thread/INFO]: System chat: Grougan left the game
+[23:42:05] [User Authenticator #196/INFO]: UUID of player Dqrkxzz is 27899981-389e-4678-a660-39d49da74394
+[23:42:05] [Server thread/INFO]: Disconnecting Dqrkxzz (/0.0.0.0:0): You are not whitelisted on this server!
+[23:42:06] [Server thread/INFO]: Dqrkxzz (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[23:42:07] [Async Chat Thread - #167/INFO]: <MissSciFiNerd> i think there is like one or two useless ones
+[23:42:25] [User Authenticator #197/INFO]: UUID of player Dqrkxzz is 27899981-389e-4678-a660-39d49da74394
+[23:42:25] [Server thread/INFO]: Disconnecting Dqrkxzz (/0.0.0.0:0): You are not whitelisted on this server!
+[23:42:25] [Server thread/INFO]: Dqrkxzz (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[23:42:28] [User Authenticator #198/INFO]: UUID of player Loquaser is f407a275-3fca-4276-b03c-a04f4d42bdc6
+[23:42:28] [Server thread/INFO]: Disconnecting Loquaser (/0.0.0.0:0): You are not whitelisted on this server!
+[23:42:28] [Server thread/INFO]: Loquaser (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[23:42:34] [Server thread/INFO]: System chat: Added zuhayo_ to the whitelist
+[23:42:41] [Server thread/INFO]: System chat: Added alkoxy42 to the whitelist
+[23:42:49] [Server thread/INFO]: System chat: Added Toastampro to the whitelist
+[23:42:55] [Server thread/INFO]: System chat: Added Kamish_Saladin to the whitelist
+[23:43:03] [Server thread/INFO]: System chat: Added Lunar_Milk to the whitelist
+[23:43:10] [Server thread/INFO]: System chat: Added SpaceStation905 to the whitelist
+[23:43:17] [Server thread/INFO]: System chat: Added ChewyLobster45 to the whitelist
+[23:43:28] [Server thread/WARN]: Couldn't find profile with name: yukliio
+[23:43:28] [Server thread/INFO]: System chat: That player does not exist
+[23:43:56] [Server thread/INFO]: System chat: Added poorbulliedlion to the whitelist
+[23:44:02] [Server thread/INFO]: System chat: Added neuron_null to the whitelist
+[23:44:08] [Server thread/INFO]: System chat: Player is already whitelisted
+[23:44:14] [Server thread/INFO]: System chat: Added Avuwep to the whitelist
+[23:44:22] [Server thread/INFO]: System chat: Unknown or incomplete command. See below for error
+whiteliast add carolssol<--[HERE]
+[23:44:23] [User Authenticator #199/INFO]: UUID of player TheOkayGuy is b060bb96-0a6e-49b2-aa81-e77789d8b592
+[23:44:23] [Server thread/INFO]: Disconnecting TheOkayGuy (/0.0.0.0:0): You are not whitelisted on this server!
+[23:44:23] [Server thread/INFO]: TheOkayGuy (/0.0.0.0:0) lost connection: You are not whitelisted on this server!
+[23:44:31] [Server thread/INFO]: System chat: Added carolssol to the whitelist
+[23:44:35] [Server thread/INFO]: System chat: Added TheOkayGuy to the whitelist
+[23:44:47] [Server thread/INFO]: System chat: Added Dqrkxzz to the whitelist
+[23:44:47] [Server thread/WARN]: MissSciFiNerd moved too quickly! 11.024100111352055,1.024424088213685,6.446700022590846
+[23:44:54] [Server thread/INFO]: System chat: Added randomguycuz to the whitelist
+[23:45:07] [Server thread/INFO]: System chat: Added 8kizi8 to the whitelist
+[23:45:07] [Server thread/WARN]: MissSciFiNerd moved too quickly! 11.657140727911127,-1.2336320060424768,9.897296412305082
+[23:45:10] [Server thread/INFO]: System chat: Added _Istea to the whitelist
+[23:45:17] [Server thread/INFO]: System chat: Player is already whitelisted
+[23:45:25] [Server thread/INFO]: System chat: Added Sushislushie389 to the whitelist
+[23:45:34] [Server thread/WARN]: Couldn't find profile with name: BowToHao
+[23:45:34] [Server thread/INFO]: System chat: That player does not exist
+[23:45:56] [Server thread/INFO]: System chat: Added Loquaser to the whitelist
+[23:46:02] [Server thread/INFO]: System chat: Added PolyPixel to the whitelist
+[23:46:06] [User Authenticator #200/INFO]: UUID of player TheOkayGuy is b060bb96-0a6e-49b2-aa81-e77789d8b592
+[23:46:06] [Server thread/INFO]: System chat: TheOkayGuy joined the game
+[23:46:06] [Server thread/INFO]: TheOkayGuy[/0.0.0.0:0] logged in with entity id 290293 at ([minecraft:overworld]1.5, 77.0, 2.5)
+[23:46:09] [Server thread/INFO]: System chat: Added Sansguy83 to the whitelist
+[23:46:16] [Server thread/WARN]: Couldn't find profile with name: epickizi
+[23:46:16] [Server thread/INFO]: System chat: That player does not exist
+[23:46:40] [Server thread/INFO]: System chat: Added t3rt1e to the whitelist
+[23:46:48] [Server thread/INFO]: System chat: Player is already whitelisted
+[23:46:55] [Server thread/INFO]: System chat: Player is already whitelisted
+[23:47:02] [Server thread/INFO]: System chat: Player is already whitelisted
+[23:47:08] [Server thread/INFO]: System chat: Player is already whitelisted
+[23:47:15] [Server thread/INFO]: System chat: Player is already whitelisted
+[23:47:21] [Server thread/INFO]: System chat: Player is already whitelisted
+[23:47:29] [Server thread/INFO]: System chat: Player is already whitelisted
+[23:47:36] [Server thread/INFO]: System chat: Player is already whitelisted
+[23:49:41] [User Authenticator #201/INFO]: UUID of player Teaq01 is 551ed771-9ba5-4a15-abad-67b81c15c5cc
+[23:49:41] [Server thread/INFO]: System chat: TheOkayGuy has made the advancement [Stone Age]
+[23:49:41] [Server thread/INFO]: System chat: Teaq01 joined the game
+[23:49:41] [Server thread/INFO]: Teaq01[/0.0.0.0:0] logged in with entity id 291623 at ([minecraft:overworld]3.5, 73.0, -4.5)
+[23:50:01] [Server thread/INFO]: System chat: TheOkayGuy has made the advancement [Getting an Upgrade]
+[23:50:45] [Server thread/INFO]: Teaq01 lost connection: Disconnected
+[23:50:45] [Server thread/INFO]: System chat: Teaq01 left the game
+[23:51:18] [User Authenticator #202/INFO]: UUID of player vowelphobic is 7bb9089d-f951-4299-aade-2dfa548edd65
+[23:51:18] [Server thread/INFO]: System chat: vowelphobic joined the game
+[23:51:18] [Server thread/INFO]: vowelphobic[/0.0.0.0:0] logged in with entity id 292160 at ([minecraft:overworld]329.4586493130694, -43.0, -36.43230927264321)
+[23:51:21] [Async Chat Thread - #171/INFO]: <vowelphobic> hai
+[23:51:21] [Async Chat Thread - #171/INFO]: <vowelphobic> bai
+[23:51:22] [Server thread/INFO]: vowelphobic lost connection: Disconnected
+[23:51:22] [Server thread/INFO]: System chat: vowelphobic left the game
+[23:54:14] [Server thread/INFO]: MissSciFiNerd lost connection: Disconnected
+[23:54:14] [Server thread/INFO]: System chat: MissSciFiNerd left the game
+[23:54:35] [User Authenticator #203/INFO]: UUID of player MissSciFiNerd is 02dcdbd9-84e3-44e3-8f97-9af7de34ff8a
+[23:54:36] [Server thread/INFO]: System chat: MissSciFiNerd joined the game
+[23:54:36] [Server thread/INFO]: MissSciFiNerd[/0.0.0.0:0] logged in with entity id 293649 at ([minecraft:overworld]14.4192725481805, -55.0, 180.7394561142449)
+[23:58:07] [Server thread/INFO]: System chat: TheOkayGuy has made the advancement [Acquire Hardware]
+[23:59:18] [Server thread/INFO]: System chat: TheOkayGuy has made the advancement [Monster Hunter]

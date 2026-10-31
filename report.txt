@@ -1,0 +1,64 @@
+SUMMARY
+Files read: 7
+Lines read: 3089
+Malformed lines: 1
+Warnings: 51
+Players: 23
+
+
+LEADERBOARD
+Player                  Time online
+MissSciFiNerd               33h 16m
+Kamish_Saladin              15h 47m
+vowelphobic                 10h 44m
+SwimmingBird178              6h 28m
+poorbulliedlion              4h 57m
+Grougan                      4h 44m
+Lopopollo                    4h 14m
+TheOkayGuy                   4h 02m
+randomguycuz                 1h 43m
+Sushislushie389              1h 26m
+t3rt1e                       0h 49m
+Sansguy83                    0h 48m
+8kizi8                       0h 48m
+NeverUnderrated              0h 15m
+Toastampro                   0h 15m
+neuron_null                  0h 14m
+Lunar_Milk                   0h 13m
+Avuwep                       0h 11m
+Dqrkxzz                      0h 10m
+SpaceStation905              0h 02m
+PolyPixel                    0h 01m
+Teaq01                       0h 01m
+alkoxy42                     0h 00m
+
+SUPERLATIVES
+Chattiest player: vowelphobic (460 chats)
+Most deaths: 8kizi8 (24 deaths)
+
+PLAYERS STILL ONLINE
+
+LAST KNOWN POSITIONS
+vowelphobic: (14.7, 69.0, -23.3)
+MissSciFiNerd: (-7.9, 69.6, 27.7)
+SwimmingBird178: (61.2, 68.0, 6.9)
+Grougan: (10.8, 69.0, -28.6)
+TheOkayGuy: (-18.3, 78.0, 13.5)
+Teaq01: (3.5, 73.0, -4.5)
+Kamish_Saladin: (174.0, 119.0, 75.7)
+SpaceStation905: (3.5, 76.0, -0.5)
+Dqrkxzz: (-11.9, 73.0, -0.3)
+alkoxy42: (-6.5, 69.0, -4.5)
+Toastampro: (-8.5, 75.0, 4.5)
+Lunar_Milk: (4.5, 80.0, 8.5)
+Sushislushie389: (11.2, 81.0, 8.3)
+8kizi8: (9.6, 72.2, -10.7)
+poorbulliedlion: (-3.7, 70.0, -9.8)
+t3rt1e: (-1.5, 78.0, 9.5)
+randomguycuz: (-1.5, 72.0, -5.5)
+PolyPixel: (10.5, 76.0, -2.5)
+Sansguy83: (-1.5, 71.0, -8.5)
+Avuwep: (-11.8, 69.0, -7.2)
+neuron_null: (-7.5, 76.0, 7.5)
+Lopopollo: (110.7, 120.0, 24.0)
+NeverUnderrated: (-8.5, 75.0, 4.5)

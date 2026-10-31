@@ -1,7 +1,7 @@
-# Plain Makefile for anyone not using CLion:   make && ./serverconfig_demo ...
+# Plain Makefile for anyone not using CLion:   make && ./loganalyzer ...
 CXX ?= g++
 CXXFLAGS ?= -std=c++20 -Wall -Wextra -Werror -pedantic -O2
-serverconfig_demo: demo_main.cpp ServerConfig.cpp *.h
-	$(CXX) $(CXXFLAGS) -o serverconfig_demo demo_main.cpp ServerConfig.cpp
+loganalyzer: main.cpp LogEntry.cpp Player.cpp ServerLog.cpp *.h
+	$(CXX) $(CXXFLAGS) -o loganalyzer main.cpp LogEntry.cpp Player.cpp ServerLog.cpp
 clean:
-	rm -f serverconfig_demo *.o *.tga
+	rm -f loganalyzer *.o *.tga
